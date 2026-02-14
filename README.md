@@ -1,3 +1,4 @@
 # Codec_Task-2 : Social Media Engagement Dashboard 
  This project presents an interactive Social Media Engagement Dashboard built using Microsoft Power BI to analyze platform-wise and brand-wise performance. The dashboard visualizes user distribution across platforms, engagement growth by day of the week, likes by product, emotion-based engagement analysis, and total shares and likes.
 Key KPIs such as total likes (30M) and total shares (12M) are highlighted to provide a quick performance overview. The dashboard helps identify top-performing platforms, user engagement trends, emotional impact on content, and brand-level engagement patterns. This project demonstrates strong data visualization, analytical thinking, and business insight generation skills for social media performance tracking.
+![Uploading Screenshot 2026-02-11 215022.png…]()
